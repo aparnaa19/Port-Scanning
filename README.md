@@ -1,4 +1,4 @@
-# Port Scanning & Packet Analysis Lab
+# Port Scanning Lab
 
 This lab demonstrates scanning networks and analyzing traffic using tools like Nmap, Zenmap, Fping, and Hping3.
 
@@ -20,9 +20,3 @@ This lab demonstrates scanning networks and analyzing traffic using tools like N
 - Used Wireshark filters (e.g., `tcp.port == 135`) to inspect 3-way handshake
 - Hping3 used for crafting custom TCP packets
 
-## 📁 Files
-- `assignment 5.pdf` – Step-by-step scan results and observations
-
-## 👩‍💻 Author
-**Aparnaa Mahalaxmi Arulljothi**  
-Student ID: A20560995
